@@ -27,7 +27,13 @@ calorie counter app built with the django framework...
 
 12. output screens : 
 
-<img width="500" alt="image" src="https://user-images.githubusercontent.com/66414385/170868998-b543501e-aaf3-468d-bed7-50c47c1516f2.png">
+<img width="700" alt="image" src="https://user-images.githubusercontent.com/66414385/170868998-b543501e-aaf3-468d-bed7-50c47c1516f2.png">
+
+<img width="700" alt="image" src="https://user-images.githubusercontent.com/66414385/170869085-cff46333-d4f7-4476-b03c-9f5abc2bdaaa.png">
+
+<img width="700" alt="image" src="https://user-images.githubusercontent.com/66414385/170869151-113f105c-73b1-47d1-a13c-a3401b219ece.png">
+
+<img width="700" alt="image" src="https://user-images.githubusercontent.com/66414385/170869168-30038700-ec11-450a-ab98-08de97f2601b.png">
 
 
 
