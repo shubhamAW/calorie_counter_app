@@ -23,9 +23,11 @@ calorie counter app built with the django framework...
 
 10. for register head over to http://127.0.0.1:8000/register/ and register ..
 
-11. after login you will able to do add food , profile and select food etc..
+11. login with your login information
 
-12. output screens : 
+12. after login you will able to do add food , profile and select food etc..
+
+13. output screens : 
 
 <img width="700" alt="image" src="https://user-images.githubusercontent.com/66414385/170868998-b543501e-aaf3-468d-bed7-50c47c1516f2.png">
 
